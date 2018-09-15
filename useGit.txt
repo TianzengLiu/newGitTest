@@ -1,5 +1,7 @@
 Git commends:
 
+Change the directory to the project you are working on.
+
 1. Add new file: 
 
 git init
