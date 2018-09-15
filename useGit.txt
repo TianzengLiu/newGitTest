@@ -1,0 +1,18 @@
+Git commends:
+
+1. Add new file: 
+
+git init
+git status
+git add .
+git commit -m"changes"
+git push
+
+
+2. Make changes: 
+
+git init
+git add .
+git status
+git commit -m"changes"
+git push
